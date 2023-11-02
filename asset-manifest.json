@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/Firebase.git/static/css/main.ba0c2131.css",
-    "main.js": "/Firebase.git/static/js/main.1af8a802.js",
-    "static/js/787.b701888c.chunk.js": "/Firebase.git/static/js/787.b701888c.chunk.js",
-    "index.html": "/Firebase.git/index.html",
-    "main.ba0c2131.css.map": "/Firebase.git/static/css/main.ba0c2131.css.map",
-    "main.1af8a802.js.map": "/Firebase.git/static/js/main.1af8a802.js.map",
-    "787.b701888c.chunk.js.map": "/Firebase.git/static/js/787.b701888c.chunk.js.map"
+    "main.css": "/Firebase/static/css/main.ba0c2131.css",
+    "main.js": "/Firebase/static/js/main.e4e5cf36.js",
+    "index.html": "/Firebase/index.html",
+    "main.ba0c2131.css.map": "/Firebase/static/css/main.ba0c2131.css.map",
+    "main.e4e5cf36.js.map": "/Firebase/static/js/main.e4e5cf36.js.map"
   },
   "entrypoints": [
     "static/css/main.ba0c2131.css",
-    "static/js/main.1af8a802.js"
+    "static/js/main.e4e5cf36.js"
   ]
 }
