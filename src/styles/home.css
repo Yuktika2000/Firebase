@@ -1,0 +1,52 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(to right, #0e4d92, #1967b0);
+    color: #fff;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.link-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 20px;
+    
+}
+
+.link-container h1 a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 24px;
+    margin: 10px;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    padding: 10px 20px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.link-container h1 a:hover {
+    background-color: #fff;
+    color: #0e4d92;
+}
+
+.welcome {
+    font-size: 24px;
+    margin: 20px 0;
+    font-family: sans-serif;
+
+}
+
+.login-link {
+    color: #5a5df8;
+    text-decoration: none;
+    font-size: 15px;
+    width: 150px;
+}
+
+.login-link:hover {
+    text-decoration: underline;
+}
